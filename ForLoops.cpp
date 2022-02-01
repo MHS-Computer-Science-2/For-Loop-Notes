@@ -29,5 +29,6 @@ int main()
 	//  using a FOR LOOP
 
 
+	system("pause");
 }
 
