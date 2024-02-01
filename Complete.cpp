@@ -29,7 +29,7 @@ int main()
 	//YOU TRY:
 	//  Display the multiple of 5 from 500 to 1000
 	//  using a FOR LOOP
-	for (int i = 500; i <= 1000; i = i +5) {
+	for (int i = 500; i <= 1000; i = i + 5) {
 		cout << i << endl;
 	}
 
