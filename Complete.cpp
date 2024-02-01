@@ -15,7 +15,7 @@ int main()
 	/*FOR LOOP STRUCTURE:
 		int i = 1   -> makes a new variable for the loop
 		i <= 10     -> loops WHILE i <= 10
-		i++         -> Increments i at the end of the loop
+		i++         -> Increments (adds one to) i at the end of the loop
 	*/
 
 	//YOU TRY:
